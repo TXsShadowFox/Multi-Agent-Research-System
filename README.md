@@ -152,8 +152,6 @@ Swapping models is a one-line change, provided the replacement is available thro
 
 ## Acknowledgements
 
-Forked from [AkarshVyas/Multi-agent-research-system](https://github.com/AkarshVyas/Multi-agent-research-system). Thanks to the original author for the pipeline design.
-
 Built with [LangChain](https://www.langchain.com), [Streamlit](https://streamlit.io), [Tavily](https://tavily.com), and [OpenAI](https://openai.com).
 
 ---
